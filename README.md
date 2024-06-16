@@ -1,5 +1,5 @@
-`**Horizontal/Vertical Analysis Tool for Financial Statements**`
-`Using SEC EDGAR Database`
+**Horizontal/Vertical Analysis Tool for Financial Statements**
+Using SEC EDGAR Database
 
 Description: This Python project is designed to perform horizontal and vertical analysis of financial statements directly fetched from the SEC Edgar database. It demonstrates the effective use of web scraping and API interaction to analyze income statements for comprehensive financial insights.
 
